@@ -1,6 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+// Mô tả: tính sin(x)
+// Đầu vào: Góc (radian)
+// Đầu ra: Giá trị sin(x)
 double tinhSinX(double x) {
     if (x == 0) return 0;
 
